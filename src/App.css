@@ -1,0 +1,114 @@
+#port{
+  font-family: cursive;
+  font-weight: 800;
+  font-size: 35px;
+  color: gold;
+}
+#nav {
+  color: gray;
+  font-weight: 600;
+  font-family:monospace;
+  font-size: 17px;
+  transition: .2s;
+}
+
+#nav:hover{
+  color: greenyellow;
+}
+
+#intro{
+font-size:50px;
+font-weight: 700;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.pic{
+  /* border: 1px solid gray; */
+  max-width: 70%;
+  /* text-align: center; */
+  box-shadow: 0px 5px 5px 5px rgb(108, 109, 109);
+  margin-left: 10%;
+}
+#img{
+  max-width:100%;
+}
+
+#iconso{
+  height: 50px;
+  width: 50px;
+  /* border: 1px solid white;  */
+  /* margin-left: 3%; */
+  padding: 2%;
+  padding-left: 3%;
+  color: white;
+  box-shadow: 0px 1px 1px 1px  gray;
+  transition: .5s ease-in-out;
+  
+}
+#iconso:hover{
+  color:orangered;
+  background-color: gainsboro;
+  font-size: 20px;
+  height: 53px;
+  box-shadow: 0px 2px 2px 2px  gray;
+}
+/* .icons{
+margin-left: 30%;
+margin-top: 2%;
+} */
+#skill{
+  max-height: 200px;
+  max-width: 90%;
+  /* margin-left: 8%; */
+  box-shadow:0px 3px 3px 3px slategrey ;
+  padding: 5%;
+}
+.skillcard{
+ box-shadow: 0px 10px 10px 10px gray;
+ padding: 3%;
+}
+.card{
+  margin-top: 5%;
+  padding: 3%;
+  margin-left: 2%;
+  margin-bottom: 2%;
+  /* background: none; */
+  /* border: 1px solid gray; */
+  background-color: #212121;
+  box-shadow: 0px 5px 5px 5px black ;
+}
+.project-topic{
+  
+  color:white;
+  font-weight: 400;
+  font-family: Cursive;
+  font-size: 25px;
+}
+#project-image{
+  height: 340px;
+  width: 100%;
+  transition:1s ;
+}
+#project-image:hover{
+  transform: scale(1.2);
+}
+#input{
+  border-radius: 0%;
+  border-bottom: 1px solid white;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background: none;
+  color: white;
+
+}
+
+#input::placeholder{
+  color:white;
+  font-family: cursive;
+}
+.con{
+  background-image: url("./Image/coo.jpeg");
+  background-size: cover;
+}
