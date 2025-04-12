@@ -29,7 +29,7 @@ const About = () => {
                   }}
                   style={{textAlign:"justify",color:"grey",marginTop:"5%",marginBottom:"3%"}}>Welcome To my Portfolio.I'm Shashikant Chaurasia , a skilled and Creative full Stack Web Developer
                       with a passion for creating beautiful,responsive and User friendly websites. I have Skills like
-                      Html, CSS, JavaScript, Jquery and MySql.I completed my Matrimony website using .NET MVC Technology using MySql Database.</motion.h5>
+                      Html, CSS, JavaScript,React.js, Bootstrap 5, Tailwind CSS. I completed my various website using MERN Stack Technology.</motion.h5>
                 </div>
                 <div>
                   <div>
